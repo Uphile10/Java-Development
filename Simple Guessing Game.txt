@@ -1,0 +1,20 @@
+Simple Guessing Game
+Overview:
+The Simple Guessing Game is a console-based game where the player tries to guess a randomly selected number within a specified range.
+
+Game Rules:
+The game generates a random number between 1 and 100.
+The player is prompted to guess the number.
+After each guess, the game provides feedback on whether the guess is too low, too high, or correct.
+The player continues guessing until they correctly guess the number.
+Upon guessing the correct number, the game displays the number of attempts made.
+The player can choose to play again or exit the game.
+How to Run the Game:
+Compile the Java code provided using a Java compiler.
+Run the compiled Java program.
+Follow the prompts to guess the randomly selected number.
+After each guess, follow the feedback provided by the game.
+Upon correctly guessing the number, decide whether to play again.
+Special Instructions:
+Ensure to input integers only when prompted for guesses.
+Have fun and enjoy playing the Simple Guessing Game!
